@@ -1,1 +1,2 @@
-# notes-app
+# Notes-app
+- Project provides CRUD examples
